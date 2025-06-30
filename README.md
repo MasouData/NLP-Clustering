@@ -1,6 +1,6 @@
 # Advanced NLP Clustering for Academic Papers
 
-![Clustering Visualization](https://via.placeholder.com/800x400.png?text=Cluster+Visualization) 
+![Clustering Visualization](https://www.kaggle.com/datasets/Cornell-University/arxiv) 
 *Example of clustered arXiv papers*
 
 This project implements an advanced NLP pipeline for clustering academic papers using state-of-the-art techniques:
