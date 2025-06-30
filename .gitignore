@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.*
+
+#csv files
+arxiv_sample.csv
+preprocessed_arxiv.csv
+
+#py files
+test.py
+
+
+# Ignore all files in a folder
+keybert_env/
+sentence_transformers_model/
+
